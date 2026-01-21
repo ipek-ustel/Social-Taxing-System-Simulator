@@ -1,1 +1,1 @@
-# Social-Taxing-System-Simulator
+A Python-based simulation that calculates fair tax amounts by evaluating complex socio-economic variables beyond simple income levels. Efficiently handles taxpayer profiles using nested Python dictionaries and lists.  Developed as part of the CENG 111 course at METU.
